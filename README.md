@@ -12,19 +12,15 @@
 <div id="views-count" align="center">
   <img src="https://komarev.com/ghpvc/?username=JixCan&style=flat-square&color=blue" alt=""/>
 </div>
-<h1 align="center">
-  Привет!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 
-## Обо мне
-Я начинающий амбициозный программист из Беларуси.
-* Пишу код даже во время отдыха.
-* Быстро осваиваюсь в новом материале.
-* Имею опыт работы с API Telegram, ВКонтакте, Discord, Forge.
-* Получаю высшее образование в ведущем IT-вузе страны.
+## About me
+I am a beginner ambitious developer from Belarus.
+* I write code even during my leisure time.
+* I quickly grasp new material.
+* I have experience working with APIs such as Telegram, VKontakte, Discord, and Forge.
+* I am pursuing a higher education at the leading IT university in my country.
 
-### С чем я могу работать?
+## My stack
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
@@ -36,6 +32,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-## Статистика профиля
+## My stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JixCan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
